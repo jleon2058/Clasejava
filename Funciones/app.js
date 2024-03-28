@@ -10,7 +10,7 @@
 
 // console.log(suma(467,335));
 
-const saludar = () => console.log('Hola a todos buen dia');
+const saludar = () => console.log('Hola a todos buen dia agregarlina master');
 
 saludar();
 
