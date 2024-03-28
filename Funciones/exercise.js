@@ -15,7 +15,8 @@ const getString = () => {
     if (cadena!='' && cadena!= null){
         alert(`la cadena ingresada tiene ${cadena.length} caracteres`);
     }else{
-        alert('Ingrese un texto por favor');
+        alert('Ingrese un texto por favor para mostrar los datos');
+
     }
 }
  
